@@ -1,0 +1,13 @@
+{
+  "name": "my-marketplace",
+  "owner": {
+    "name": "Your GitHub Username"
+  },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./",
+      "description": "Short description of your plugin"
+    }
+  ]
+}
